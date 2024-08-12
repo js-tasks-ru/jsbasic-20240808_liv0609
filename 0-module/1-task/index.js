@@ -1,3 +1,5 @@
 function sum(m, n) {
-  // ваш код...
+  if (n || m) {
+    return n + m;
+  }
 }
