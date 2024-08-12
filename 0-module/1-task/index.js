@@ -1,5 +1,5 @@
 function sum(m, n) {
-  if (n || m) {
+  if (n && m) {
     return n + m;
   }
 }
