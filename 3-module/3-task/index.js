@@ -11,10 +11,10 @@ function camelize(str) {
 
 function toUpperCase(word) {
   if (word === '') {
-    return word;
+    return word
   } else if (word.length === 1) {
-    return word.toUpperCase();
+    return word.toUpperCase()
   } else {
-    return word.slice(0, 1).toUpperCase() + word.slice(1);
+    return word.slice(0, 1).toUpperCase() + word.slice(1)
   }
 }

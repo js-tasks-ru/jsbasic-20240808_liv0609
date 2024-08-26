@@ -1,4 +1,3 @@
-
 describe('2-module-1-task', () => {
   it('должна складывать все зарплаты', () => {
     let salaries = {
