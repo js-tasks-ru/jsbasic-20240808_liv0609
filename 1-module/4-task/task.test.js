@@ -1,3 +1,4 @@
+
 describe('1-module-4-task', () => {
   it('должна возвращать true для \'1XbeT now\'', () => {
     expect(checkSpam('1XbeT now')).toBe(true);

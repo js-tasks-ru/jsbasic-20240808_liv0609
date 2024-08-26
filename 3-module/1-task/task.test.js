@@ -1,3 +1,4 @@
+
 describe('3-module-1-task', () => {
   it('должна преобразовать users в массив имён', () => {
     let vasya = { name: 'Вася', age: 25 };

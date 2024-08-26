@@ -1,3 +1,4 @@
+
 describe('2-module-2-task', () => {
   it('{} должен вернуть true', () => {
     const obj = {};

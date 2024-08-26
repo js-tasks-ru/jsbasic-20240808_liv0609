@@ -1,3 +1,4 @@
+
 describe('1-module-1-task', () => {
   it('факториал 0 равен 1', () => {
     expect(factorial(0)).toEqual(1);

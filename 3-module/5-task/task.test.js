@@ -1,3 +1,4 @@
+
 describe('3-module-5-task', () => {
   it('1 и -5.8 или 10 хотя 34 + -5.3 и 73', () => {
     expect(getMinMax('1 и -5.8 или 10 хотя 34 + -5.3 и 73')).toEqual({ min: -5.8, max: 73 });
