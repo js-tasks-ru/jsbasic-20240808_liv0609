@@ -1,4 +1,5 @@
 export default class StepSlider {
+
   constructor({ steps, value = 0 }) {
     this.steps = steps;
     this.value = value;
@@ -114,4 +115,5 @@ export default class StepSlider {
       document.addEventListener('pointerup', onPointerUp);
     });
   }
+
 }
